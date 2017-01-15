@@ -7,19 +7,6 @@ I have a background in design and aspire to become a great developer who can add
 
 The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment.  
 
-**Skills:**
-- HTML5, CSS and JavaScript
-- Node.js
-- Redis and postgreSQL databases
-- Testing with Tape, QUnit, Jasmine and Nightwatch.js
-- Continuous integration and code coverage with Travis and Codecov
-- Hapi framework for Node.js
-- Version control with Git and GitHub
-- Adobe Illustrator, Photoshop & InDesign
-- Prototyping and wireframes with Balsamiq and Adobe XD
-- Hosting on Heroku
-- Templating with Handlebars.js
-
 ### Skills
 
 Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | Other tools

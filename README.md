@@ -25,7 +25,7 @@ Learning Officer
 
 Responsible for the programming and realization of the learning programme at Peckham Platform. Key to this role is managing the Youth Platform, which supports under-represented young people interested in the creative industries and creates progression routes into higher education and employment.
 
-**Hoxton Hall (Youth Arts Charity) ** <br>
+**Hoxton Hall** (Youth Arts Charity) <br>
 August 2012 – March 2013 <br>
 Design Tutor
 

@@ -45,7 +45,6 @@ rhodespeter@hotmail.co.uk <br>
 07833798916
 
 ### Links
-[Github](https://github.com/rhodespeter) - 
 [Linkedin](https://www.linkedin.com/in/peter-rhodes-b7655967) -
 [Codewars](https://www.codewars.com/users/Peter%20Rhodes) -
 [Twitter](https://twitter.com/PeterJRhodes)

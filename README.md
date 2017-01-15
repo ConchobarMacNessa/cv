@@ -15,7 +15,7 @@ Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | 
      CSS3        | Illustrator  |    Jasmine    |    Redis     |              |    Heroku   
   Javascript     |   Indesign   |  Travis CI    |              |              |  Handlebars
     Node.js      |   Adobe XD   | Nightwatch.js |              |              |             
-    	SQL        |   Balsamiq   |     Tape      |              |              |             
+    	SQL         |   Balsamiq   |     Tape      |              |              |             
 
 ### Employment
 
@@ -34,7 +34,7 @@ Commissioned projects for clients which have included Thames & Hudson, AEG Live,
 
 ### Education
 **Founders & Coders**, London (2016-17) <br>
-16 weeks full-stack bootcamp
+16 week full-stack bootcamp
 
 **Camberwell College of Arts**, London (2009-12) <br>
 BA Illustration - First Class Hons

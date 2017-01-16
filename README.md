@@ -9,6 +9,8 @@ The tech for good sector is a real interest of mine. I would love to work on pro
 
 I have created a cv website which can be found [here](https://rhodespeter.github.io/cv-website/).
 
+---
+
 ### Skills
 
 Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | Other tools
@@ -18,6 +20,8 @@ Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | 
   Javascript     |   Indesign   |  Travis CI    |              |              |  Handlebars
     Node.js      |   Adobe XD   | Nightwatch.js |              |              |             
     	SQL         |   Balsamiq   |     Tape      |              |              |             
+
+---
 
 ### Employment
 
@@ -34,6 +38,8 @@ Design Tutor
 **Freelance Illustrator**<br>
 Commissioned projects for clients which have included Thames & Hudson, AEG Live, Bauer Media, V&A, Aquila magazine and Ligatus Research Centre.
 
+---
+
 ### Education
 **Founders & Coders**, London (2016-17) <br>
 16 week full-stack bootcamp
@@ -41,10 +47,14 @@ Commissioned projects for clients which have included Thames & Hudson, AEG Live,
 **Camberwell College of Arts**, London (2009-12) <br>
 BA Illustration - First Class Hons
 
+---
+
 ### Contact
 
 rhodespeter@hotmail.co.uk <br>
 07833798916
+
+---
 
 ### Links
 [Linkedin](https://www.linkedin.com/in/peter-rhodes-b7655967) -

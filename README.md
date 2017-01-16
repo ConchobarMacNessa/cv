@@ -5,7 +5,9 @@ I am a full-stack Javascript developer and have just graduated from the Founders
 
 I have a background in design and aspire to become a great developer who can add value to a team by providing design and artworking skills alongside coding.
 
-The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment.  
+The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment. 
+
+I have created a cv website which can be found [here](https://rhodespeter.github.io/cv-website/).
 
 ### Skills
 

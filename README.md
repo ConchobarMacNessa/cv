@@ -36,7 +36,7 @@ August 2012 – March 2013 <br>
 Design Tutor
 
 **Freelance Illustrator**<br>
-Commissioned projects for clients which have included Thames & Hudson, AEG Live, Bauer Media, V&A, Aquila magazine and Ligatus Research Centre.
+Commissioned projects for clients which have included Thames & Hudson, AEG Live, Bauer Media, V&A, Aquila magazine and Ligatus Research Centre. A website for my illustration work can be found [here](http://rhodes-peter.co.uk/).
 
 --
 

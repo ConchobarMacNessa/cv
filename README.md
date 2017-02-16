@@ -1,11 +1,10 @@
 ## Peter Rhodes - CV
-Junior Full-Stack Javascript developer
 
-I am a full-stack Javascript developer and have just graduated from the Founders & Coders bootcamp. I am interested in software development opportunities and specialise in web development with JavaScript and Node.js.
+I am a full-stack Javascript developer and have just graduated from the 16 week Founders & Coders bootcamp.
 
-I have a background in design and aspire to become a great developer who can add value to a team by providing design and artworking skills alongside coding.
+I have a background in design and aspire to become a great developer who can add value to a team by providing strong design and artworking skills alongside coding.
 
-The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment. 
+The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment.
 
 --
 

@@ -17,7 +17,7 @@ Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | 
      HTML5       |  Photoshop   |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github    
      CSS3        | Illustrator  |    Jasmine    |    Redis     |              |    Heroku   
   Javascript     |   Indesign   |  Travis CI    |              |              |  Handlebars
-    Node.js      |   Adobe XD   | Nightwatch.js |              |              |             
+    Node.js      |   Adobe XD   | Nightwatch.js |              |              |   Tachyons        
     	SQL         |   Balsamiq   |     Tape      |              |              |             
 
 --

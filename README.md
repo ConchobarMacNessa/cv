@@ -6,7 +6,7 @@ I have a background in design and aspire to become a great developer who can add
 
 The tech for good sector is a real interest of mine. I would love to work on projects with a positive social impact, which aim to create a more equal and fair society or a more sustainable environment.
 
-You can view my portfolio [here](https://rhodespeter.github.io/portfolio/)
+You can view my portfolio [here](https://rhodespeter.github.io/portfolio/).
 
 --
 

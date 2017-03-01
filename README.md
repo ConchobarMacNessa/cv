@@ -1,4 +1,5 @@
 ## Peter Rhodes - CV
+A downloadable version of this CV can be found [here](https://rhodespeter.github.io/portfolio/cv)
 
 I am a full-stack Javascript developer and have just graduated from the 16 week Founders & Coders bootcamp.
 

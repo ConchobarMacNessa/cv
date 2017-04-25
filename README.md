@@ -13,13 +13,13 @@ My portfolio can be found [here](https://rhodespeter.github.io/portfolio/).
 
 ### Skills
 
-Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | Other tools
-:---------------:|:------------:|:-------------:|:------------:|:-----------: |:-----------:
-     HTML5       |  Photoshop   |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github    
-     CSS3        | Illustrator  |    Jasmine    |    Redis     |              |    Heroku   
-  Javascript     |   Indesign   |  Travis CI    |              |              |  Handlebars
-    Node.js      |   Adobe XD   | Nightwatch.js |              |              |   Tachyons        
-    	SQL         |   Balsamiq   |     Tape      |              |              |             
+Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | Other tools |
+-----------------|--------------|---------------|--------------|--------------|-------------|
+     HTML5       |  Photoshop   |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github |  
+     CSS3        | Illustrator  |    Jasmine    |    Redis     |              |    Heroku   |
+  Javascript     |   Indesign   |  Travis CI    |              |              |  Handlebars |
+    Node.js      |   Adobe XD   | Nightwatch.js |              |              |   Tachyons  |     
+    	SQL         |   Balsamiq   |     Tape      |              |              |             |
 
 --
 

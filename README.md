@@ -1,7 +1,7 @@
 ## Peter Rhodes - CV
 A downloadable version of this CV can be found [here](https://rhodespeter.github.io/portfolio/cv).
 
-I'm a Full-stack JavaScript Developer at Founders & Coders C.I.C. Graduated from the 16 week Founders & Coders bootcamp in February 2017. I am currently working on a 5 week project to create a React web app for the NHS’ Child and Adolescent Mental Health Services, funded by the Anna Freud charity.
+I'm a Full-stack JavaScript Developer at Founders & Coders C.I.C. Graduated from the 16 week Founders & Coders bootcamp in February 2017. I am currently working on a project to create a React web app for the NHS’ Child and Adolescent Mental Health Services, funded by the Anna Freud charity.
 
 I have a background in design and aspire to become a great developer who can add value to a team by providing strong design and artworking skills alongside coding.
 

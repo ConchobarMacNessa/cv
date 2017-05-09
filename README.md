@@ -11,12 +11,22 @@ My portfolio can be found [here](https://rhodespeter.github.io/portfolio/).
 
 --
 
+### Recent Projects
+[React Whack-A-Mole](https://whack-a-mole-react.herokuapp.com/)<br>
+[Welcome In](https://github.com/CYPIAPT-LNDSE/welcome-to-camhs/)<br>
+[City Search](https://rhodespeter.github.io/city-search/)<br>
+[React Stopwatch](https://stopwatch-in-react.herokuapp.com/)<br>
+[Drawing App](https://peter-drawing-app.herokuapp.com/)<br>
+[JavaScript Clock](https://rhodespeter.github.io/clock/)
+
+--
+
 ### Skills
 
 | Coding languages | Design tools |   Testing     |   Databases  |  Frameworks  | Other tools  |
 |:----------------:|:------------:|:-------------:|:------------:|:------------:|:------------:|
 |     HTML5        |  Photoshop   |     QUnit     |  postgreSQL  |    Hapi.js   |  Git/Github  |
-|     CSS3         | Illustrator  |    Jasmine    |    Redis     |              |    Heroku    |
+|     CSS3         | Illustrator  |    Jasmine    |    Redis     |    Express   |    Heroku    |
 |  Javascript      |   Indesign   |  Travis CI    |              |              |  Handlebars  |
 |    Node.js       |   Adobe XD   | Nightwatch.js |              |              |   Tachyons   |   
 |     SQL          |   Balsamiq   |     Tape      |              |              |     Sass     | 
